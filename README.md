@@ -81,9 +81,7 @@ The main objective of this project is to train a GAN for generating synthetic im
    mamba install -qy pandas numpy seaborn matplotlib scikit-learn tensorflow
    ```
 
-3. Ensure GPU support for TensorFlow if available.
-
-4. Download and unzip the dataset:
+3. Download and unzip the dataset:
    ```bash
    !skillsnetwork.prepare("https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML311-Coursera/labs/Module6/cartoon_20000.zip", overwrite=True)
    ```
