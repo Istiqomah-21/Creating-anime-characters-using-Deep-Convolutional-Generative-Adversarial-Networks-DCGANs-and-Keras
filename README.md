@@ -6,7 +6,6 @@
 
 This repository contains the implementation of a **Generative Adversarial Network (GAN)** for image generation, focusing on generating cartoon-style images. The model is built using **TensorFlow** and **Keras** frameworks, leveraging various deep learning techniques to create and evaluate generative models.
 
-### Badges 🤖
 <p align="center">
   <a
 
